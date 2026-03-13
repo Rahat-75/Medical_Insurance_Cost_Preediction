@@ -3,23 +3,11 @@
 ## Project Overview
 This project focuses on predicting the cost of medical insurance for individuals based on various features. The model aims to provide insights into factors influencing insurance pricing and assist users in understanding potential costs.
 
-## Features
-- Age
-- Sex
-- Body Mass Index (BMI)
-- Number of Children
-- Smoking Status
-- Region
-
 ## Dataset Information
 The dataset contains historical data about medical insurance costs, with relevant features that help in predicting costs effectively. 
 
 ## Models Used
-This project implements several models to predict medical insurance costs:
-- Linear Regression
-- Decision Trees
-- Random Forest
-- XGBoost
+This project implements several models to predict medical insurance costs.
 
 ## Usage Instructions
 ### Setup Steps
