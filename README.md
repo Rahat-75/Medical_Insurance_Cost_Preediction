@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on predicting the cost of medical insurance for individuals based on various features. The model aims to provide insights into factors influencing insurance pricing and assist users in understanding potential costs.
 
+## Hugging Face
+https://huggingface.co/spaces/Rahat-15/Medical_Insurance_Cost_Preediction
+
 ## Dataset Information
 The dataset contains historical data about medical insurance costs, with relevant features that help in predicting costs effectively. 
 
